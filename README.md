@@ -1,4 +1,4 @@
-# Mashine Learning/Supervised learning algorythms
+# Machine Learning/Supervised learning algorythms
 This repository contains data science projects with UCI Machine Lerning dataset ['Student Performance'](https://archive.ics.uci.edu/ml/datasets/student+performance)
 
 The algorithms of Supervised Learning were implemented to predict student's performance on their final exams:
